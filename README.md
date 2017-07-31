@@ -1,0 +1,1 @@
+Needed a place to save my work from [Automate the Boring Stuff with Python](http://automatetheboringstuff.com). I worked up to chapter 4 without using a vcs but I wanted to get more used to learning git sooooooo here I am.
