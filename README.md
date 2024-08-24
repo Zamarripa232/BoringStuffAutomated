@@ -1,5 +1,5 @@
 ## WAT
-Needed a place to save my work from [Automate the Boring Stuff with Python](http://automatetheboringstuff.com). I worked up to chapter 4 without using a vcs but I wanted to get more used to learning git sooooooo here I am.
-
-## Y NO UPDATE THO
-Turns out everything on AtBSwP can be knocked out in 20 min and doesn't really benefit from version control. I'm keeping this up as a sort of timestamp for remembering when I started trying to automate more.
+Needed a place to save my work from [Automate the Boring Stuff with Python](http://automatetheboringstuff.com).
+This is an old repo from when I initially worked through the content. I wasn't great about doing using git at the time and never really updated this repo.
+## WHY UPDATE
+I'm working through the content again to refresh myself with basic Python so I figured it was as good a time as any to use the existing repo.
