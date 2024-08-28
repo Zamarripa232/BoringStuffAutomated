@@ -8,7 +8,7 @@ while True:
     print('Enter the name of a cat ' + str(len(catNames) + 1) + ' or enter nothing to stop.):')
     name = input()
     if name == '':
-        break;
+        break
     catNames = catNames + [name] # list concatenation
 
 print('The cat names are:')
