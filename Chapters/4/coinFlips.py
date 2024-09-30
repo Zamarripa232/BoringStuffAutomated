@@ -9,11 +9,13 @@
 import random
 
 numberOfStreaks = 0
+flips = []
 
-for experimentNumber in range(100):
+for experimentNumber in range(1):
     # create list of h/t values.
+    flipResult = random.randint(0,1)
     print('Doing a coin flip')
-    print('The result was ' + flipResult)
+    print('The result was ' + str(flipResult))
     print('adding flip to list')
     print('going back to flip again')
     # check for 6 streak.
